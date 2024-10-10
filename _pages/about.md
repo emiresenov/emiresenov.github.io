@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>(+46) 73 789 32 76</p>
+    <p>Chalmers University of Technology</p>
+    <p>Department of Electrical Engineering</p>
+    <p>SE-412 96 Gothenburg</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in Electrical Engineering at Chalmers University of Technology. My research focuses on machine learning with applications in high voltage engineering.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I was a master's student in data science at Uppsala University, specializing in machine learning and statistics. I did my master's thesis at the Division of Solar Cell Technology where I developed automation and machine learning methods for a self-driving magnetron sputtering lab. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My undergraduate studies took place in my hometown, Luleå, where I studied computer engineering. 
+
+Research interests include solving novel and interdisciplinary problems using machine learning. If you are interested in collaborating, or simply getting in touch, don't hesitate to reach out!
