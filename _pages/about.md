@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in Electrical Engineering at Chalmers University of Technology. My research focuses on machine learning with applications in high voltage engineering.
+I am a PhD student in electrical engineering at Chalmers University of Technology. My research focuses on machine learning with applications in high voltage engineering.
 
 Previously, I was a master's student in data science at Uppsala University, specializing in machine learning and statistics. I did my master's thesis at the Division of Solar Cell Technology where I developed automation- and machine learning methods for a self-driving magnetron sputtering lab. 
 
